@@ -1,16 +1,36 @@
-### Hi there 👋
-
-<!--
-**ashraful1023/ashraful1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+<head>
+<!-- <title>ashraful Islam's GitHub Profile</title> -->
+</head>
+<body>
+<h1>Hi, I'm ashraful Islam 👋</h1>
+<p>I am a computer science and engineering student at Chittagong University of Engineering and Technology (CUET). I have a passion for coding and building software that makes a difference in people's lives. I'm always looking to learn new things and improve my skills.</p>
+<h2>🚀 Skills</h2>
+<ul>
+<li>Programming languages: C, C++</li>
+<li>Web technologies: HTML, CSS</li>
+<li>Operating systems: Windows</li>
+<li>Development tools: Git, Visual Studio Code </li>
+</ul>
+<!-- <h2>💻 Projects</h2>
+<ul>
+<li><a href="https://github.com/yourusername/projectname">Project name</a> - Short project description</li>
+<li><a href="https://github.com/yourusername/projectname">Project name</a> - Short project description</li>
+<li><a href="https://github.com/yourusername/projectname">Project name</a> - Short project description</li>
+</ul> -->
+<h2>🌱 I'm currently learning</h2>
+<ul>
+<li>Problem Solving</li>
+<!-- <li>Data Science</li>
+<li>Machine Learning</li>
+<li>Natural Language Processing</li> -->
+</ul>
+<h2>📫 How to reach me</h2>
+<ul>
+<!-- <li>LinkedIn: <a href="https://www.linkedin.com/in/yourusername/">Your LinkedIn Profile Link</a></li> -->
+<!-- <li>Twitter: <a href="https://twitter.com/yourusername">@YourTwitterHandle</a></li> -->
+<li>Email: <a href="mailto: towhidul.cse.cuet@gmail.com">Towhidul Islam</a></li>
+<li>Email: <a href="mailto: ashraful.cse.cuet@gmail.com">ashraful.cse.cuet@gmail.com</a></li>
+  <li>Facebook: <a href="https://www.facebook.com/profile.php?id=100034586922784">ashraful Islam </a></li>
+</ul>
